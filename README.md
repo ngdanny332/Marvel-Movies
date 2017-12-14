@@ -3,7 +3,7 @@
 This contains 3 python files which are used to create a movie website that stores data such movie title, storyline, poster, and trailer.
 
 ## Fresh_Tomatoes
-This file was created by adarsh0806, The original code can be found [here](https://raw.githubusercontent.com/adarsh0806/ud036_StarterCode/master/fresh_tomatoes.py)
+This file was created by adarsh0806, The original code can be found [here](https://raw.githubusercontent.com/adarsh0806/ud036_StarterCode/master/fresh_tomatoes.py).
 This file was generated to created to make a website to show the following items:
 * Movie title
 * Movie poster

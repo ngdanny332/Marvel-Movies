@@ -2,6 +2,7 @@ import webbrowser
 import os
 import re
 
+# Author of code: adarsh0806
 
 # Styles and scripting for the page
 main_page_head = '''
